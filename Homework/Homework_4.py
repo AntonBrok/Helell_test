@@ -38,8 +38,6 @@ while True:
         print(f"{name}, вы лжете - в наше время столько не живут...")
 
     answer = input("Желаете выйти? (Д/Y)")
-
-
     if answer in ("y", "д"):
 
         break
