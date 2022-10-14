@@ -39,5 +39,4 @@ while True:
 
     answer = input("Желаете выйти? (Д/Y)")
     if answer in ("y", "д"):
-
         break
